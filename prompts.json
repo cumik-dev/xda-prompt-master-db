@@ -1,16 +1,5 @@
 [
   {
-    "id": 1792658930293,
-    "module": "camera",
-    "title": "aaa",
-    "category": "aaaa",
-    "shotId": "Shot 47",
-    "video": "",
-    "poster": "https://raw.githubusercontent.com/cumik-dev/xda-prompt-master-db/main/images/whatsapp-image-2026-10-19-at-15.16.50.jpeg",
-    "base_image": "https://raw.githubusercontent.com/cumik-dev/xda-prompt-master-db/main/images/image--1-.png",
-    "prompt": "aaaa"
-  },
-  {
     "id": 1,
     "shotId": "Shot 01",
     "category": "Pan/Tilt",
