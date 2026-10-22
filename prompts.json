@@ -2634,5 +2634,115 @@
     "poster": "/posters/presets/preset-sports-3.jpg",
     "base_image": "",
     "prompt": "Shot on cinema camera, 85mm lens, high-speed slow-motion, shallow depth of field. Hard rim light catching sweat, stadium floodlights, dramatic contrast. Punchy contrast, cool stadium tone with warm skin. Crisp, fine grain, motion-frozen droplets. Mood: explosive, determined, high-energy. Athlete central, stadium bokeh, dynamic diagonal.\n\n[Aspect Target: 16:9 Site & YouTube | High-speed slow motion, sweat detail, explosive athletic movement and stadium vibe.]"
+  },
+  {
+    "id": 7001,
+    "module": "negative",
+    "shotId": "NEG-01",
+    "category": "Master Universal",
+    "title": "Universal Master Negative Prompt",
+    "video": "",
+    "poster": "/posters/01-static-shot-hq.jpg",
+    "base_image": "",
+    "prompt": "--no blurry, low resolution, distorted face, extra fingers, malformed hands, flickering, morphing, warping between frames, jittery motion, ghosting, compression artifacts, watermark, text, oversaturated, washed out, inconsistent lighting, cluttered background, cartoonish, CGI plastic look, amateur\n\n[Rekomendasi Utama: Salin dan tempelkan blok ini ke kolom Negative Prompt di Midjourney (--no), Stable Diffusion, Kling AI, HaiLuo, Runway Gen-3 untuk mencegah cacat video AI]."
+  },
+  {
+    "id": 7002,
+    "module": "negative",
+    "shotId": "NEG-02",
+    "category": "Anatomy & body",
+    "title": "Negative: Anatomy & body",
+    "video": "",
+    "poster": "/posters/01-static-shot-hq.jpg",
+    "base_image": "",
+    "prompt": "--no extra fingers, missing fingers, fused fingers, malformed hands, distorted limbs, extra limbs, missing limbs, broken joints, mutated anatomy, deformed body, disproportionate proportions, twisted torso, unnatural pose, dislocated shoulders, elongated neck, warped spine\n\n[Filter Cacat: Khusus mencegah 16 jenis cacat anatomy & body pada video properti & render AI]."
+  },
+  {
+    "id": 7003,
+    "module": "negative",
+    "shotId": "NEG-03",
+    "category": "Faces",
+    "title": "Negative: Faces",
+    "video": "",
+    "poster": "/posters/08-dolly-in-hq.jpg",
+    "base_image": "",
+    "prompt": "--no distorted face, asymmetrical face, melting face, extra eyes, misaligned eyes, lazy eye, crossed eyes, warped mouth, extra teeth, crooked teeth, uncanny expression, dead eyes, plastic skin, shifting facial features, morphing face mid-shot\n\n[Filter Cacat: Khusus mencegah 15 jenis cacat faces pada video properti & render AI]."
+  },
+  {
+    "id": 7004,
+    "module": "negative",
+    "shotId": "NEG-04",
+    "category": "Motion & temporal",
+    "title": "Negative: Motion & temporal",
+    "video": "",
+    "poster": "/posters/09-dolly-out-hq.jpg",
+    "base_image": "",
+    "prompt": "--no flickering, strobing, frame stutter, temporal flicker, morphing, melting, warping between frames, jittery motion, unstable motion, jerky movement, ghosting, motion smear, double exposure, objects popping in and out, disappearing limbs, inconsistent background, shifting scenery, drifting layout, sliding feet, skating feet, floaty unnatural walk, rubber-limb physics, weightless motion\n\n[Filter Cacat: Khusus mencegah 23 jenis cacat motion & temporal pada video properti & render AI]."
+  },
+  {
+    "id": 7005,
+    "module": "negative",
+    "shotId": "NEG-05",
+    "category": "Quality & artifacts",
+    "title": "Negative: Quality & artifacts",
+    "video": "",
+    "poster": "/posters/12-drone-flyover-hq.jpg",
+    "base_image": "",
+    "prompt": "--no blurry, out of focus, low resolution, pixelated, compression artifacts, blocky noise, banding, oversharpened, halos, edge artifacts, jpeg artifacts, digital noise, color blotches, glitchy, corrupted frames, scan-line errors, aliasing, jagged edges, moire patterns\n\n[Filter Cacat: Khusus mencegah 19 jenis cacat quality & artifacts pada video properti & render AI]."
+  },
+  {
+    "id": 7006,
+    "module": "negative",
+    "shotId": "NEG-06",
+    "category": "Text & branding intrusions",
+    "title": "Negative: Text & branding intrusions",
+    "video": "",
+    "poster": "/posters/15-crane-down-hq.jpg",
+    "base_image": "",
+    "prompt": "--no text, captions, subtitles, watermark, logo, signature, timestamp, UI elements, on-screen graphics, gibberish text, garbled lettering, fake writing\n\n[Filter Cacat: Khusus mencegah 12 jenis cacat text & branding intrusions pada video properti & render AI]."
+  },
+  {
+    "id": 7007,
+    "module": "negative",
+    "shotId": "NEG-07",
+    "category": "Color & exposure faults",
+    "title": "Negative: Color & exposure faults",
+    "video": "",
+    "poster": "/posters/20-orbit-left-hq.jpg",
+    "base_image": "",
+    "prompt": "--no oversaturated, neon blowout, color clipping, washed out, flat, lifeless color, blown highlights, crushed blacks, clipped detail, color cast, white-balance shift, green tint, overexposed, underexposed, muddy shadows, inconsistent color grade between shots\n\n[Filter Cacat: Khusus mencegah 16 jenis cacat color & exposure faults pada video properti & render AI]."
+  },
+  {
+    "id": 7008,
+    "module": "negative",
+    "shotId": "NEG-08",
+    "category": "Composition & lens faults",
+    "title": "Negative: Composition & lens faults",
+    "video": "",
+    "poster": "/posters/24-pan-right-hq.jpg",
+    "base_image": "",
+    "prompt": "--no cropped subject, cut-off head, awkward framing, tilted horizon, crooked verticals, unwanted lens distortion, fisheye warp, cluttered background, distracting elements, unintended vignette, dark corners\n\n[Filter Cacat: Khusus mencegah 11 jenis cacat composition & lens faults pada video properti & render AI]."
+  },
+  {
+    "id": 7009,
+    "module": "negative",
+    "shotId": "NEG-09",
+    "category": "Style leakage",
+    "title": "Negative: Style leakage",
+    "video": "",
+    "poster": "/posters/30-pedestal-up-hq.jpg",
+    "base_image": "",
+    "prompt": "--no cartoonish, illustrated, anime, 3D-render look, video-game graphics, CGI plastic, uncanny CG, amateur, low-budget, stock-footage feel, oversmoothed, beauty-filter skin, airbrushed, AI-generated artifacts, synthetic sheen\n\n[Filter Cacat: Khusus mencegah 15 jenis cacat style leakage pada video properti & render AI]."
+  },
+  {
+    "id": 7010,
+    "module": "negative",
+    "shotId": "NEG-10",
+    "category": "Prompt Inversion",
+    "title": "Negative to Positive Cheat (Sora & Kling Inversion)",
+    "video": "",
+    "poster": "/posters/08-dolly-in-hq.jpg",
+    "base_image": "",
+    "prompt": "Panduan Inversi Positif (Untuk AI yang tidak support parameter --no / Negative Prompt):\n\n• Ganti 'no blur' ➔ Jadikan 'razor-sharp, crisp focus'\n• Ganti 'no flicker' ➔ Jadikan 'smooth stable motion'\n• Ganti 'no extra fingers' ➔ Jadikan 'natural anatomically-correct hands'\n• Ganti 'no warping' ➔ Jadikan 'consistent solid forms'\n• Ganti 'no oversaturation' ➔ Jadikan 'natural balanced color'\n• Ganti 'no clutter' ➔ Jadikan 'clean minimal background'\n\nModel seperti OpenAI Sora atau Kling AI terkadang lebih patuh jika diperintahkan kata positif ketimbang kata larangan."
   }
 ]
