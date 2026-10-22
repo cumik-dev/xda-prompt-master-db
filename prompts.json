@@ -1332,9 +1332,9 @@
     "shotId": "Light-M01",
     "category": "In Motion Lighting",
     "title": "Candlelight Flicker",
-    "video": "",
-    "poster": "/lighting/candlelight.webp",
-    "base_image": "/optics/base_original.webp",
+    "video": "/videos/lighting/candlelight.mp4",
+    "poster": "/posters/lighting/candlelight.jpg",
+    "base_image": "",
     "prompt": "candlelight flicker, warm low-key intimacy, dancing flame shadows, soft golden glow on surrounding architecture."
   },
   {
@@ -1343,9 +1343,9 @@
     "shotId": "Light-M02",
     "category": "In Motion Lighting",
     "title": "Firelight Dancing Shadows",
-    "video": "",
-    "poster": "/lighting/firelight.webp",
-    "base_image": "/optics/base_original.webp",
+    "video": "/videos/lighting/firelight.mp4",
+    "poster": "/posters/lighting/firelight.jpg",
+    "base_image": "",
     "prompt": "firelight, warm dancing shadows, crackling fireplace illumination, organic amber light casting across living room hearth."
   },
   {
@@ -1354,9 +1354,9 @@
     "shotId": "Light-M03",
     "category": "In Motion Lighting",
     "title": "Volumetric God Rays Through Fog",
-    "video": "",
-    "poster": "/lighting/godrays.webp",
-    "base_image": "/optics/base_original.webp",
+    "video": "/videos/lighting/godrays.mp4",
+    "poster": "/posters/lighting/godrays.jpg",
+    "base_image": "",
     "prompt": "single hard shaft of light through fog (god rays / volumetric), dramatic atmospheric beam piercing interior window mist."
   },
   {
@@ -1365,9 +1365,9 @@
     "shotId": "Light-M04",
     "category": "In Motion Lighting",
     "title": "Strobing & Pulsing Light",
-    "video": "",
-    "poster": "/lighting/strobe.webp",
-    "base_image": "/optics/base_original.webp",
+    "video": "/videos/lighting/strobe.mp4",
+    "poster": "/posters/lighting/strobe.jpg",
+    "base_image": "",
     "prompt": "strobing / pulsing light, rhythmic exposure shifts, dynamic architectural lighting transition, vibrant kinetic illumination."
   }
 ]
