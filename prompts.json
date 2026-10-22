@@ -412,5 +412,195 @@
     "video": "/videos/s6-pass-through-objects-hq.mp4",
     "poster": "/posters/s6-pass-through-objects-hq.jpg",
     "prompt": "pass-through movement. Movement: move forward toward a visible object, surface or barrier and continue into the space beyond. Speed: smooth centered glide. Framing: keep the opening or surface centered as the transition point. End: arrive inside the revealed space beyond."
+  },
+  {
+    "id": 2001,
+    "module": "optics",
+    "shotId": "CAM-01",
+    "category": "Camera Body",
+    "title": "Sony Venice 2 Cine Full-Frame",
+    "video": "",
+    "poster": "/optics/sony-venice.webp",
+    "prompt": "shot on Sony Venice 2, Full-Frame 8.6K sensor, smooth cinematic color science, natural skin tones, soft clean highlight rolloff, S-Cinetone aesthetic."
+  },
+  {
+    "id": 2002,
+    "module": "optics",
+    "shotId": "CAM-02",
+    "category": "Camera Body",
+    "title": "Sony Alpha A7S III / A7 IV",
+    "video": "",
+    "poster": "/optics/sony-a7s.webp",
+    "prompt": "shot on Sony Alpha A7S III mirrorless, crisp digital clarity, sharp subject separation, organic 4K texture, natural color balance, clean shadow details."
+  },
+  {
+    "id": 2003,
+    "module": "optics",
+    "shotId": "CAM-03",
+    "category": "Camera Body",
+    "title": "ARRI Alexa Mini LF",
+    "video": "",
+    "poster": "/optics/arri-alexa.webp",
+    "prompt": "shot on ARRI Alexa Mini LF, organic highlight rolloff, gentle filmic roll, rich dynamic range, soft natural contrast, golden Hollywood aesthetic."
+  },
+  {
+    "id": 2004,
+    "module": "optics",
+    "shotId": "CAM-04",
+    "category": "Camera Body",
+    "title": "RED Komodo 6K Cinema",
+    "video": "",
+    "poster": "/optics/red-komodo.webp",
+    "prompt": "shot on RED Komodo, crisp digital clarity, high micro-contrast, punchy saturated cinematic tones, modern architectural showcase look."
+  },
+  {
+    "id": 2005,
+    "module": "optics",
+    "shotId": "CAM-05",
+    "category": "Camera Body",
+    "title": "35mm Photochemical Film",
+    "video": "",
+    "poster": "/optics/35mm-film.webp",
+    "prompt": "shot on 35mm film camera, photochemical texture, Kodak Portra 400 tones, subtle natural grain, rich warm midtones, timeless architectural film look."
+  },
+  {
+    "id": 2006,
+    "module": "optics",
+    "shotId": "CAM-06",
+    "category": "Camera Body",
+    "title": "IMAX Large-Format 70mm",
+    "video": "",
+    "poster": "/optics/imax-70mm.webp",
+    "prompt": "shot on IMAX large-format 70mm, sweeping ultra-high-resolution detail, immense architectural scale, grand depth of field, crystal clear sharpness."
+  },
+  {
+    "id": 2007,
+    "module": "optics",
+    "shotId": "LENS-01",
+    "category": "Lensa & Focal Length",
+    "title": "50mm Standard Prime (Human Eye)",
+    "video": "",
+    "poster": "/optics/lens-50mm.webp",
+    "prompt": "50mm prime lens, neutral standard human perspective, zero geometric distortion, f/1.4 aperture, crisp subject focus with creamy background separation."
+  },
+  {
+    "id": 2008,
+    "module": "optics",
+    "shotId": "LENS-02",
+    "category": "Lensa & Focal Length",
+    "title": "35mm Documentary Natural",
+    "video": "",
+    "poster": "/optics/lens-35mm.webp",
+    "prompt": "35mm prime lens, natural near-human field of view, balanced environmental framing, gentle perspective, ideal for room walkthroughs and lifestyle scenes."
+  },
+  {
+    "id": 2009,
+    "module": "optics",
+    "shotId": "LENS-03",
+    "category": "Lensa & Focal Length",
+    "title": "14mm Ultra-Wide Architectural",
+    "video": "",
+    "poster": "/optics/lens-14mm.webp",
+    "prompt": "14mm ultra-wide lens, dramatic expansive perspective, sweeping space coverage, rectilinear correction, towering vertical architecture presence."
+  },
+  {
+    "id": 2010,
+    "module": "optics",
+    "shotId": "LENS-04",
+    "category": "Lensa & Focal Length",
+    "title": "24mm Wide Environmental",
+    "video": "",
+    "poster": "/optics/lens-24mm.webp",
+    "prompt": "24mm wide lens, expansive environmental framing, clean straight lines, minimal edge distortion, perfect for interior spaces and outdoor courtyards."
+  },
+  {
+    "id": 2011,
+    "module": "optics",
+    "shotId": "LENS-05",
+    "category": "Lensa & Focal Length",
+    "title": "85mm Portrait Compression",
+    "video": "",
+    "poster": "/optics/lens-85mm.webp",
+    "prompt": "85mm telephoto portrait lens, compressed flattering framing, tight background compression, creamy bokeh, isolating architectural details."
+  },
+  {
+    "id": 2012,
+    "module": "optics",
+    "shotId": "LENS-06",
+    "category": "Lensa & Focal Length",
+    "title": "135mm Telephoto Compression",
+    "video": "",
+    "poster": "/optics/lens-135mm.webp",
+    "prompt": "135mm telephoto, heavy background compression, stacked planes, cinematic isolation of distant design elements."
+  },
+  {
+    "id": 2013,
+    "module": "optics",
+    "shotId": "LENS-07",
+    "category": "Lensa & Focal Length",
+    "title": "100mm Macro Material Detail",
+    "video": "",
+    "poster": "/optics/lens-macro.webp",
+    "prompt": "100mm macro lens, extreme close detail, razor-thin focal plane, hyper-focused on tactile textures like polished marble, brushed brass, and natural wood grain."
+  },
+  {
+    "id": 2014,
+    "module": "optics",
+    "shotId": "OPT-01",
+    "category": "Karakter Optik",
+    "title": "Anamorphic Cinema (2.39:1)",
+    "video": "",
+    "poster": "/optics/optic-anamorphic.webp",
+    "prompt": "anamorphic lens, oval bokeh, subtle horizontal blue streak flares, 2.39:1 widescreen letterbox, widescreen cinematic scope with organic edge rolloff."
+  },
+  {
+    "id": 2015,
+    "module": "optics",
+    "shotId": "OPT-02",
+    "category": "Karakter Optik",
+    "title": "Tilt-Shift Architectural Focus",
+    "video": "",
+    "poster": "/optics/optic-tiltshift.webp",
+    "prompt": "tilt-shift lens, perspective control, parallel vertical lines without converging keystoning, selective plane of focus, miniature depth effect."
+  },
+  {
+    "id": 2016,
+    "module": "optics",
+    "shotId": "OPT-03",
+    "category": "Karakter Optik",
+    "title": "Shallow Depth of Field (f/1.4)",
+    "video": "",
+    "poster": "/optics/optic-shallow.webp",
+    "prompt": "shallow depth of field, f/1.4 aperture, creamy background bokeh balls, sharp focus on primary subject with ethereal soft background falloff."
+  },
+  {
+    "id": 2017,
+    "module": "optics",
+    "shotId": "OPT-04",
+    "category": "Karakter Optik",
+    "title": "Deep Focus Landscape (f/11)",
+    "video": "",
+    "poster": "/optics/optic-deep.webp",
+    "prompt": "deep focus, f/11 aperture, hyperfocal distance, everything tack-sharp from foreground paving stones to distant mountain horizon."
+  },
+  {
+    "id": 2018,
+    "module": "optics",
+    "shotId": "OPT-05",
+    "category": "Karakter Optik",
+    "title": "Modern Clinical Prime Lens",
+    "video": "",
+    "poster": "/optics/optic-clinical.webp",
+    "prompt": "modern clinical prime lens, edge-to-edge razor sharpness, zero chromatic aberration, ultra-clean neutral color rendering."
+  },
+  {
+    "id": 2019,
+    "module": "optics",
+    "shotId": "OPT-06",
+    "category": "Karakter Optik",
+    "title": "Soft-Focus Diffusion Filter",
+    "video": "",
+    "poster": "/optics/optic-diffusion.webp",
+    "prompt": "soft-focus diffusion filter, dreamy halated highlights, glowing lamps and window blooms, gentle romantic architectural ambiance."
   }
 ]
