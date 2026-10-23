@@ -114,9 +114,11 @@
     "shotId": "Shot 06",
     "category": "Zoom/Lens",
     "title": "Fast zoom in",
-    "video": "/videos/06-fast-zoom-in-v2-hq.mp4",
-    "poster": "/posters/06-fast-zoom-in-v2-hq.jpg",
-    "prompt": "fast zoom in. Movement: quickly increase lens focal length toward the main visual target. Speed: quick decisive zoom. Framing: keep the target centered or clearly readable during the scale change. End: finish on a stable tighter composition."
+    "video": "/api/media/videos/1792748709479-fast_camera_zoom_in_20261023164449.mp4",
+    "poster": "/api/media/images/1792748709511-poster-1792748707526-fast_camera_zoom_in_20261023164449.jpg",
+    "prompt": "fast zoom in. Movement: quickly increase lens focal length toward the main visual target. Speed: quick decisive zoom. Framing: keep the target centered or clearly readable during the scale change. End: finish on a stable tighter composition.",
+    "module": "camera",
+    "base_image": ""
   },
   {
     "id": 11,
