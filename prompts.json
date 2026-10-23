@@ -37,9 +37,11 @@
     "shotId": "Shot 03",
     "category": "Pan/Tilt",
     "title": "Whip pan right",
-    "video": "/videos/03-whip-pan-right-hq.mp4",
-    "poster": "/posters/03-whip-pan-right-hq.jpg",
-    "prompt": "whip pan right. Movement: rotate rapidly from the starting direction toward a new target on the right. Speed: fast snap with brief motion blur during the rotation. Framing: begin on one readable composition and land on a second readable target. End: settle into a sharp final frame."
+    "video": "/api/media/videos/1792735271611-whip_pan_right_movement_guide_20261023104555.mp4",
+    "poster": "",
+    "prompt": "whip pan right. Movement: rotate rapidly from the starting direction toward a new target on the right. Speed: fast snap with brief motion blur during the rotation. Framing: begin on one readable composition and land on a second readable target. End: settle into a sharp final frame.",
+    "module": "camera",
+    "base_image": ""
   },
   {
     "id": 5,
