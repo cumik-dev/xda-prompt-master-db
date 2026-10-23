@@ -15,9 +15,11 @@
     "shotId": "Shot 02",
     "category": "Pan/Tilt",
     "title": "Pan right",
-    "video": "/videos/02-pan-right-hq.mp4",
-    "poster": "/posters/02-pan-right-hq.jpg",
-    "prompt": "pan right. Movement: rotate the camera horizontally from left to right from one fixed point. Speed: smooth constant rotation. Framing: keep the horizon level while new space enters from the right side of the frame. End: settle on a clear final composition."
+    "video": "https://raw.githubusercontent.com/cumik-dev/xda-prompt-master-db/main/videos/pans-right.mp4",
+    "poster": "",
+    "prompt": "pan right. Movement: rotate the camera horizontally from left to right from one fixed point. Speed: smooth constant rotation. Framing: keep the horizon level while new space enters from the right side of the frame. End: settle on a clear final composition.",
+    "module": "camera",
+    "base_image": ""
   },
   {
     "id": 3,
