@@ -4,9 +4,11 @@
     "shotId": "Shot 01",
     "category": "Pan/Tilt",
     "title": "Static shot",
-    "video": "/videos/01-static-shot-hq.mp4",
-    "poster": "/posters/01-static-shot-hq.jpg",
-    "prompt": "locked-off static shot. Movement: hold one fixed camera position for the full clip. Speed: still and steady. Framing: keep the same angle, height, lens distance and composition. End: finish with the same framing and camera position."
+    "video": "https://raw.githubusercontent.com/cumik-dev/xda-prompt-master-db/main/videos/0306.mp4",
+    "poster": "",
+    "prompt": "locked-off static shot. Movement: hold one fixed camera position for the full clip. Speed: still and steady. Framing: keep the same angle, height, lens distance and composition. End: finish with the same framing and camera position.",
+    "module": "camera",
+    "base_image": ""
   },
   {
     "id": 2,
