@@ -90,9 +90,11 @@
     "shotId": "Shot 05",
     "category": "Zoom/Lens",
     "title": "Slow zoom in",
-    "video": "/videos/05-slow-zoom-in-hq.mp4",
-    "poster": "/posters/05-slow-zoom-in-hq.jpg",
-    "prompt": "slow zoom in. Movement: slowly increase lens focal length toward a tighter frame. Speed: gradual and even. Framing: keep the main visual target readable as it becomes larger in frame. End: finish on a stable tighter composition."
+    "video": "/api/media/videos/1792747536823-slow_camera_zoom_in_framing_20261023162443.mp4",
+    "poster": "/api/media/images/1792747536880-poster-1792747534916-slow_camera_zoom_in_framing_20261023162443.jpg",
+    "prompt": "slow zoom in. Movement: slowly increase lens focal length toward a tighter frame. Speed: gradual and even. Framing: keep the main visual target readable as it becomes larger in frame. End: finish on a stable tighter composition.",
+    "module": "camera",
+    "base_image": ""
   },
   {
     "id": 9,
