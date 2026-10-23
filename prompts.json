@@ -6,7 +6,7 @@
     "title": "Static shot",
     "video": "/api/media/videos/1792735240503-static-shot.mp4",
     "poster": "/api/media/posters/poster-1792735240503-static-shot.jpg",
-    "prompt": "locked-off static shot. Movement: hold one fixed camera position for the full clip. Speed: still and steady. Framing: keep the same angle, height, lens distance and composition. End: finish with the same framing and camera position. ",
+    "prompt": "locked-off static shot. Movement: hold one fixed camera position for the full clip. Speed: still and steady. Framing: keep the same angle, height, lens distance and composition. End: finish with the same framing and camera position.",
     "module": "camera",
     "base_image": ""
   },
