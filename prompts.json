@@ -101,9 +101,11 @@
     "shotId": "Shot 05B",
     "category": "Zoom/Lens",
     "title": "Slow zoom out",
-    "video": "/videos/5b-slow-zoom-out-hq.mp4",
-    "poster": "/posters/5b-slow-zoom-out-hq.jpg",
-    "prompt": "slow zoom out. Movement: slowly decrease lens focal length toward a wider frame. Speed: gradual and even. Framing: keep the main visual target readable as more surrounding space appears. End: finish on a stable wider composition."
+    "video": "/api/media/videos/1792747824582-camera_lens_zooming_out_gradually_20261023163001.mp4",
+    "poster": "/api/media/images/1792747824616-poster-1792747822661-camera_lens_zooming_out_gradually_20261023163001.jpg",
+    "prompt": "slow zoom out. Movement: slowly decrease lens focal length toward a wider frame. Speed: gradual and even. Framing: keep the main visual target readable as more surrounding space appears. End: finish on a stable wider composition.",
+    "module": "camera",
+    "base_image": ""
   },
   {
     "id": 10,
