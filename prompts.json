@@ -26,9 +26,11 @@
     "shotId": "Shot 02B",
     "category": "Pan/Tilt",
     "title": "Pan left",
-    "video": "/videos/2b-pan-left-hq.mp4",
-    "poster": "/posters/2b-pan-left-hq.jpg",
-    "prompt": "pan left. Movement: rotate the camera horizontally from right to left from one fixed point. Speed: smooth constant rotation. Framing: keep the horizon level while new space enters from the left side of the frame. End: settle on a clear final composition."
+    "video": "/api/media/videos/1792735259786-pans-left.mp4",
+    "poster": "",
+    "prompt": "pan left. Movement: rotate the camera horizontally from right to left from one fixed point. Speed: smooth constant rotation. Framing: keep the horizon level while new space enters from the left side of the frame. End: settle on a clear final composition.",
+    "module": "camera",
+    "base_image": ""
   },
   {
     "id": 4,
