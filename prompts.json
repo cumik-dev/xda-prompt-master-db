@@ -4,7 +4,7 @@
     "shotId": "Shot 01",
     "category": "Pan/Tilt",
     "title": "Static shot",
-    "video": "https://pub-3ff38465eb5548b4ab3a656bd5adcb7f.r2.dev/videos/1792728230947-static-shot.mp4",
+    "video": "https://raw.githubusercontent.com/cumik-dev/xda-prompt-master-db/main/videos/0306.mp4",
     "poster": "",
     "prompt": "locked-off static shot. Movement: hold one fixed camera position for the full clip. Speed: still and steady. Framing: keep the same angle, height, lens distance and composition. End: finish with the same framing and camera position.",
     "module": "camera",
@@ -59,9 +59,11 @@
     "shotId": "Shot 04",
     "category": "Pan/Tilt",
     "title": "Tilt up",
-    "video": "/videos/04-tilt-up-hq.mp4",
-    "poster": "/posters/04-tilt-up-hq.jpg",
-    "prompt": "tilt up. Movement: rotate the camera upward from one fixed point. Speed: smooth constant tilt. Framing: keep the vertical subject or architecture centered as the frame travels upward. End: land on the upper target."
+    "video": "https://pub-3ff38465eb5548b4ab3a656bd5adcb7f.r2.dev/videos/1792728416553-camera_tilting_up_from_shoe_20261023110624.mp4",
+    "poster": "",
+    "prompt": "tilt up. Movement: rotate the camera upward from one fixed point. Speed: smooth constant tilt. Framing: keep the vertical subject or architecture centered as the frame travels upward. End: land on the upper target.",
+    "module": "camera",
+    "base_image": ""
   },
   {
     "id": 7,
