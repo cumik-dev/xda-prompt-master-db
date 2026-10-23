@@ -4,7 +4,7 @@
     "shotId": "Shot 01",
     "category": "Pan/Tilt",
     "title": "Static shot",
-    "video": "/api/media/videos/1792734944073-whatsapp-video-2026-09-23-at-10.27.23.mp4",
+    "video": "/api/media/videos/1792735240503-static-shot.mp4",
     "poster": "",
     "prompt": "locked-off static shot. Movement: hold one fixed camera position for the full clip. Speed: still and steady. Framing: keep the same angle, height, lens distance and composition. End: finish with the same framing and camera position.",
     "module": "camera",
