@@ -48,9 +48,11 @@
     "shotId": "Shot 03B",
     "category": "Pan/Tilt",
     "title": "Whip pan left",
-    "video": "/videos/3b-whip-pan-left-hq.mp4",
-    "poster": "/posters/3b-whip-pan-left-hq.jpg",
-    "prompt": "whip pan left. Movement: rotate rapidly from the starting direction toward a new target on the left. Speed: fast snap with brief motion blur during the rotation. Framing: begin on one readable composition and land on a second readable target. End: settle into a sharp final frame."
+    "video": "/api/media/videos/1792735282739-whip_pan_left_camera_movement_20261023105342.mp4",
+    "poster": "",
+    "prompt": "whip pan left. Movement: rotate rapidly from the starting direction toward a new target on the left. Speed: fast snap with brief motion blur during the rotation. Framing: begin on one readable composition and land on a second readable target. End: settle into a sharp final frame.",
+    "module": "camera",
+    "base_image": ""
   },
   {
     "id": 6,
