@@ -143,9 +143,11 @@
     "shotId": "Shot 07B",
     "category": "Zoom/Lens",
     "title": "Crash zoom out",
-    "video": "/videos/07b-crash-zoom-out-v2-hq.mp4",
-    "poster": "/posters/07b-crash-zoom-out-v2-hq.jpg",
-    "prompt": "crash zoom out. Movement: snap the lens rapidly away from the main visual target. Speed: very fast and punchy. Framing: keep the target readable as the surrounding space appears. End: land on a bold wider composition."
+    "video": "/api/media/videos/1792748954969-camera_crashing_zoom_out_20261023164901.mp4",
+    "poster": "/api/media/images/1792748955035-poster-1792748953066-camera_crashing_zoom_out_20261023164901.jpg",
+    "prompt": "crash zoom out. Movement: snap the lens rapidly away from the main visual target. Speed: very fast and punchy. Framing: keep the target readable as the surrounding space appears. End: land on a bold wider composition.",
+    "module": "camera",
+    "base_image": ""
   },
   {
     "id": 14,
