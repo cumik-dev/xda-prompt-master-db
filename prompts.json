@@ -81,9 +81,11 @@
     "shotId": "Shot 04B",
     "category": "Pan/Tilt",
     "title": "Tilt down",
-    "video": "/videos/4b-tilt-down-hq.mp4",
-    "poster": "/posters/4b-tilt-down-hq.jpg",
-    "prompt": "tilt down. Movement: rotate the camera downward from one fixed point. Speed: smooth constant tilt. Framing: keep the vertical subject or architecture centered as the frame travels downward. End: land on the lower target."
+    "video": "/api/media/videos/1792748015812-camera_tilt_down_camera_movement_20261023163225.mp4",
+    "poster": "/api/media/images/1792748015859-poster-1792748013896-camera_tilt_down_camera_movement_20261023163225.jpg",
+    "prompt": "tilt down. Movement: rotate the camera downward from one fixed point. Speed: smooth constant tilt. Framing: keep the vertical subject or architecture centered as the frame travels downward. End: land on the lower target.",
+    "module": "camera",
+    "base_image": ""
   },
   {
     "id": 8,
