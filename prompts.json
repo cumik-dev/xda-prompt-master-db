@@ -59,9 +59,11 @@
     "shotId": "Shot 04",
     "category": "Pan/Tilt",
     "title": "Tilt up",
-    "video": "/videos/04-tilt-up-hq.mp4",
-    "poster": "/posters/04-tilt-up-hq.jpg",
-    "prompt": "tilt up. Movement: rotate the camera upward from one fixed point. Speed: smooth constant tilt. Framing: keep the vertical subject or architecture centered as the frame travels upward. End: land on the upper target."
+    "video": "/api/media/videos/1792735450796-camera_tilting_up_from_shoe_20261023110624.mp4",
+    "poster": "",
+    "prompt": "tilt up. Movement: rotate the camera upward from one fixed point. Speed: smooth constant tilt. Framing: keep the vertical subject or architecture centered as the frame travels upward. End: land on the upper target.",
+    "module": "camera",
+    "base_image": ""
   },
   {
     "id": 7,
