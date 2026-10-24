@@ -387,7 +387,9 @@
     "title": "Body-mounted camera / Snorricam",
     "video": "/videos/24-snorricam-v2-hq.mp4",
     "poster": "/posters/24-snorricam-v2-hq.jpg",
-    "prompt": "body-mounted Snorricam. Movement: keep the camera fixed relative to the subject's torso or face while the subject moves. Speed: match the subject's body motion. Framing: keep the subject close, centered and facing the camera as the background moves around them. End: finish with the subject still locked in frame."
+    "prompt": "body-mounted Snorricam. Movement: keep the camera fixed relative to the subject's torso or face while the subject moves. Speed: match the subject's body motion. Framing: keep the subject close, centered and facing the camera as the background moves around them. End: finish with the subject still locked in frame.",
+    "module": "camera",
+    "base_image": ""
   },
   {
     "id": 36,
