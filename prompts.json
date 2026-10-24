@@ -213,9 +213,11 @@
     "shotId": "Shot 11B",
     "category": "Physical Moves",
     "title": "Pedestal down",
-    "video": "/videos/11b-pedestal-down-hq.mp4",
-    "poster": "/posters/11b-pedestal-down-hq.jpg",
-    "prompt": "pedestal down. Movement: move the entire camera vertically downward in a straight line. Speed: smooth constant descent. Framing: keep the lens level and pointed in the same direction during the vertical move. End: finish with the lower framing clearly readable."
+    "video": "/api/media/videos/1792811111895-camera_moving_vertically_downward_20261024100453.mp4",
+    "poster": "/api/media/images/1792811111972-poster-1792811108563-camera_moving_vertically_downward_20261024100453.jpg",
+    "prompt": "pedestal down. Movement: move the entire camera vertically downward in a straight line. Speed: smooth constant descent. Framing: keep the lens level and pointed in the same direction during the vertical move. End: finish with the lower framing clearly readable.",
+    "module": "camera",
+    "base_image": ""
   },
   {
     "id": 20,
