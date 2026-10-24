@@ -422,9 +422,11 @@
     "shotId": "Shot 26",
     "category": "Drone/Crane",
     "title": "Drone push in",
-    "video": "/videos/26-drone-push-in-hq.mp4",
-    "poster": "/posters/26-drone-push-in-hq.jpg",
-    "prompt": "drone push in. Movement: fly smoothly forward through open space toward the subject or destination. Speed: controlled aerial glide. Framing: keep the route and destination readable as the camera approaches. End: arrive at a closer aerial composition."
+    "video": "/api/media/videos/1792824486385-drone_flying_forward_through_space_20261024134739.mp4",
+    "poster": "/api/media/images/1792824486534-poster-1792824483062-drone_flying_forward_through_space_20261024134739.jpg",
+    "prompt": "drone push in. Movement: fly smoothly forward through open space toward the subject or destination. Speed: controlled aerial glide. Framing: keep the route and destination readable as the camera approaches. End: arrive at a closer aerial composition.",
+    "module": "camera",
+    "base_image": ""
   },
   {
     "id": 39,
