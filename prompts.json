@@ -345,9 +345,11 @@
     "shotId": "Shot 20",
     "category": "Dolly/Track",
     "title": "Low tracking",
-    "video": "/videos/20-low-tracking-v2-hq.mp4",
-    "poster": "/posters/20-low-tracking-v2-hq.jpg",
-    "prompt": "low tracking shot. Movement: move at ground or below-waist height alongside the subject's movement path. Speed: match the subject, footsteps or wheels. Framing: keep the low detail readable while the ground plane moves through frame. End: finish with the low perspective clearly maintained."
+    "video": "/api/media/videos/1792817358782-low_tracking_shot_execution_20261024114901.mp4",
+    "poster": "/api/media/images/1792817358808-poster-1792817355389-low_tracking_shot_execution_20261024114901.jpg",
+    "prompt": "low tracking shot. Movement: move at ground or below-waist height alongside the subject's movement path. Speed: match the subject, footsteps or wheels. Framing: keep the low detail readable while the ground plane moves through frame. End: finish with the low perspective clearly maintained.",
+    "module": "camera",
+    "base_image": ""
   },
   {
     "id": 32,
