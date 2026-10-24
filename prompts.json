@@ -433,9 +433,11 @@
     "shotId": "Shot 26B",
     "category": "Drone/Crane",
     "title": "Drone pull back",
-    "video": "/videos/26b-drone-pull-back-hq.mp4",
-    "poster": "/posters/26b-drone-pull-back-hq.jpg",
-    "prompt": "drone pull back. Movement: fly smoothly backward away from the subject or destination. Speed: controlled aerial retreat. Framing: keep the subject readable as more landscape appears. End: finish on a wider aerial composition."
+    "video": "/api/media/videos/1792824493119-drone_pulling_back_from_landscape_20261024134748.mp4",
+    "poster": "/api/media/images/1792824493175-poster-1792824489711-drone_pulling_back_from_landscape_20261024134748.jpg",
+    "prompt": "drone pull back. Movement: fly smoothly backward away from the subject or destination. Speed: controlled aerial retreat. Framing: keep the subject readable as more landscape appears. End: finish on a wider aerial composition.",
+    "module": "camera",
+    "base_image": ""
   },
   {
     "id": 40,
