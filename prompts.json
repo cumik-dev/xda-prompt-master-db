@@ -301,9 +301,11 @@
     "shotId": "Shot 16",
     "category": "Dolly/Track",
     "title": "Tracking shot",
-    "video": "/videos/16-tracking-shot-hq.mp4",
-    "poster": "/posters/16-tracking-shot-hq.jpg",
-    "prompt": "tracking shot. Movement: move through the scene with the main subject. Speed: match the subject's pace. Framing: keep the subject consistently readable while the environment moves around them. End: maintain a clear moving composition."
+    "video": "/api/media/videos/1792816222978-tracking_shot_following_subject_20261024113011.mp4",
+    "poster": "/api/media/images/1792816223039-poster-1792816219614-tracking_shot_following_subject_20261024113011.jpg",
+    "prompt": "tracking shot. Movement: move through the scene with the main subject. Speed: match the subject's pace. Framing: keep the subject consistently readable while the environment moves around them. End: maintain a clear moving composition.",
+    "module": "camera",
+    "base_image": ""
   },
   {
     "id": 28,
