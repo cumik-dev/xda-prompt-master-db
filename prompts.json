@@ -279,9 +279,11 @@
     "shotId": "Shot 15",
     "category": "Physical Moves",
     "title": "Orbit clockwise",
-    "video": "/videos/15-orbit-clockwise-hq.mp4",
-    "poster": "/posters/15-orbit-clockwise-hq.jpg",
-    "prompt": "clockwise orbit. Movement: circle clockwise around the main subject at a consistent radius. Speed: smooth controlled orbit. Framing: keep the subject centered while the background rotates around them. End: complete the intended arc or full circle with stable framing."
+    "video": "/api/media/videos/1792815852714-clockwise_orbit_camera_movement_20261024112357.mp4",
+    "poster": "/api/media/images/1792815852851-poster-1792815849432-clockwise_orbit_camera_movement_20261024112357.jpg",
+    "prompt": "clockwise orbit. Movement: circle clockwise around the main subject at a consistent radius. Speed: smooth controlled orbit. Framing: keep the subject centered while the background rotates around them. End: complete the intended arc or full circle with stable framing.",
+    "module": "camera",
+    "base_image": ""
   },
   {
     "id": 26,
