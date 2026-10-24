@@ -356,9 +356,11 @@
     "shotId": "Shot 21",
     "category": "Dolly/Track",
     "title": "Vehicle tracking",
-    "video": "/videos/21-vehicle-tracking-hq.mp4",
-    "poster": "/posters/21-vehicle-tracking-hq.jpg",
-    "prompt": "vehicle tracking shot. Movement: move with the vehicle along its route. Speed: match the vehicle's pace. Framing: keep the vehicle stable in frame while the road or environment moves past. End: maintain a clear moving vehicle composition."
+    "video": "/api/media/videos/1792817695151-camera_tracking_moving_vehicle_20261024115435.mp4",
+    "poster": "/api/media/images/1792817695264-poster-1792817691827-camera_tracking_moving_vehicle_20261024115435.jpg",
+    "prompt": "vehicle tracking shot. Movement: move with the vehicle along its route. Speed: match the vehicle's pace. Framing: keep the vehicle stable in frame while the road or environment moves past. End: maintain a clear moving vehicle composition.",
+    "module": "camera",
+    "base_image": ""
   },
   {
     "id": 33,
