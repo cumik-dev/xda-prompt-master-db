@@ -246,9 +246,11 @@
     "shotId": "Shot 13",
     "category": "Physical Moves",
     "title": "Push past / pass-by shot",
-    "video": "/videos/13-push-past-pass-by-shot-hq.mp4",
-    "poster": "/posters/13-push-past-pass-by-shot-hq.jpg",
-    "prompt": "push past. Movement: move forward past a visible foreground object, edge or opening. Speed: smooth forward glide. Framing: let the foreground pass close to the lens while the space beyond becomes clearer. End: arrive inside or beyond the foreground layer."
+    "video": "/api/media/videos/1792813709675-camera_gliding_past_foreground_o-_20261024104717.mp4",
+    "poster": "/api/media/images/1792813709581-poster-1792813706171-camera_gliding_past_foreground_o-_20261024104717.jpg",
+    "prompt": "push past. Movement: move forward past a visible foreground object, edge or opening. Speed: smooth forward glide. Framing: let the foreground pass close to the lens while the space beyond becomes clearer. End: arrive inside or beyond the foreground layer.",
+    "module": "camera",
+    "base_image": ""
   },
   {
     "id": 23,
