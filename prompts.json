@@ -158,9 +158,11 @@
     "shotId": "Shot 08",
     "category": "Dolly/Track",
     "title": "Dolly in",
-    "video": "/videos/08-dolly-in-hq.mp4",
-    "poster": "/posters/08-dolly-in-hq.jpg",
-    "prompt": "dolly in. Movement: move the camera physically forward in a straight line toward the main subject. Speed: smooth controlled push. Framing: keep camera height, lens direction and subject position consistent while distance closes. End: finish in a tighter composition."
+    "video": "/api/media/videos/1792808662204-dolly_in_toward_red_dress_20261024092349.mp4",
+    "poster": "/api/media/images/1792808662242-poster-1792808658862-dolly_in_toward_red_dress_20261024092349.jpg",
+    "prompt": "dolly in. Movement: move the camera physically forward in a straight line toward the main subject. Speed: smooth controlled push. Framing: keep camera height, lens direction and subject position consistent while distance closes. End: finish in a tighter composition.",
+    "module": "camera",
+    "base_image": ""
   },
   {
     "id": 15,
