@@ -224,9 +224,11 @@
     "shotId": "Shot 12",
     "category": "Physical Moves",
     "title": "Slider right",
-    "video": "/videos/12-slider-right-hq.mp4",
-    "poster": "/posters/12-slider-right-hq.jpg",
-    "prompt": "slider right. Movement: slide the camera a small distance to the right. Speed: slow controlled constant motion. Framing: keep foreground, subject and background layers readable as parallax shifts. End: finish on a refined composition with the new right-side angle visible."
+    "video": "/api/media/videos/1792812731484-camera_sliding_right_slowly_20261024103153.mp4",
+    "poster": "/api/media/images/1792812731514-poster-1792812728117-camera_sliding_right_slowly_20261024103153.jpg",
+    "prompt": "slider right. Movement: slide the camera a small distance to the right. Speed: slow controlled constant motion. Framing: keep foreground, subject and background layers readable as parallax shifts. End: finish on a refined composition with the new right-side angle visible.",
+    "module": "camera",
+    "base_image": ""
   },
   {
     "id": 21,
