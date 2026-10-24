@@ -367,9 +367,11 @@
     "shotId": "Shot 22",
     "category": "Dolly/Track",
     "title": "Chase shot",
-    "video": "/videos/22-chase-shot-hq.mp4",
-    "poster": "/posters/22-chase-shot-hq.jpg",
-    "prompt": "chase shot. Movement: follow a moving subject quickly along the action route. Speed: fast, reactive and physically close. Framing: keep the subject visible while allowing energetic reframing. End: stay connected to the subject in motion."
+    "video": "/api/media/videos/1792823784517-chase_shot_following_moving_subject_20261024133221.mp4",
+    "poster": "/api/media/images/1792823784730-poster-1792823781261-chase_shot_following_moving_subject_20261024133221.jpg",
+    "prompt": "chase shot. Movement: follow a moving subject quickly along the action route. Speed: fast, reactive and physically close. Framing: keep the subject visible while allowing energetic reframing. End: stay connected to the subject in motion.",
+    "module": "camera",
+    "base_image": ""
   },
   {
     "id": 34,
