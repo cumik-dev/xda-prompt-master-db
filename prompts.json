@@ -376,9 +376,11 @@
     "shotId": "Shot 23",
     "category": "Human Camera",
     "title": "Handheld shot",
-    "video": "/videos/23-handheld-shot-hq.mp4",
-    "poster": "/posters/23-handheld-shot-hq.jpg",
-    "prompt": "handheld shot. Movement: hold the camera at human operator height with natural body movement. Speed: responsive and organic. Framing: keep the subject readable while the frame has subtle sway and micro-adjustments. End: finish with a natural handheld composition."
+    "video": "/api/media/videos/1792822700896-handheld_camera_movement_instruc-_20261024131805.mp4",
+    "poster": "/api/media/images/1792822701072-poster-1792822697615-handheld_camera_movement_instruc-_20261024131805.jpg",
+    "prompt": "handheld shot. Movement: hold the camera at human operator height with natural body movement. Speed: responsive and organic. Framing: keep the subject readable while the frame has subtle sway and micro-adjustments. End: finish with a natural handheld composition.",
+    "module": "camera",
+    "base_image": ""
   },
   {
     "id": 35,
