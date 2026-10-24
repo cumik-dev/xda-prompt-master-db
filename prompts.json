@@ -268,9 +268,11 @@
     "shotId": "Shot 14B",
     "category": "Physical Moves",
     "title": "Arc left",
-    "video": "/videos/14b-arc-left-hq.mp4",
-    "poster": "/posters/14b-arc-left-hq.jpg",
-    "prompt": "arc left. Movement: move on a shallow curved path around the main subject toward the left side. Speed: smooth measured curve. Framing: keep distance, height and subject readability consistent while the angle changes. End: finish from a new left-side angle."
+    "video": "/api/media/videos/1792815701315-camera_arc_right_movement_instru-_20261024105101.mp4",
+    "poster": "/api/media/images/1792815701318-poster-1792815697899-camera_arc_right_movement_instru-_20261024105101.jpg",
+    "prompt": "arc left. Movement: move on a shallow curved path around the main subject toward the left side. Speed: smooth measured curve. Framing: keep distance, height and subject readability consistent while the angle changes. End: finish from a new left-side angle.",
+    "module": "camera",
+    "base_image": ""
   },
   {
     "id": 25,
