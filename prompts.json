@@ -310,9 +310,11 @@
     "shotId": "Shot 17",
     "category": "Dolly/Track",
     "title": "Follow shot / over-the-shoulder",
-    "video": "/videos/17-follow-shot-over-the-shoulder-hq.mp4",
-    "poster": "/posters/17-follow-shot-over-the-shoulder-hq.jpg",
-    "prompt": "follow shot from behind. Movement: move behind the subject along their route at shoulder height. Speed: match the subject's pace. Framing: keep the back, shoulder or head as the foreground guide while the route ahead stays readable. End: continue following with the subject leading the frame."
+    "video": "/api/media/videos/1792816194799-camera_movement_following_subjec-_20261024112938.mp4",
+    "poster": "/api/media/images/1792816195049-poster-1792816191630-camera_movement_following_subjec-_20261024112938.jpg",
+    "prompt": "follow shot from behind. Movement: move behind the subject along their route at shoulder height. Speed: match the subject's pace. Framing: keep the back, shoulder or head as the foreground guide while the route ahead stays readable. End: continue following with the subject leading the frame.",
+    "module": "camera",
+    "base_image": ""
   },
   {
     "id": 29,
