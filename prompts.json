@@ -334,9 +334,11 @@
     "shotId": "Shot 19",
     "category": "Dolly/Track",
     "title": "Side tracking",
-    "video": "/videos/19-side-tracking-hq.mp4",
-    "poster": "/posters/19-side-tracking-hq.jpg",
-    "prompt": "side tracking shot. Movement: move parallel beside the subject along their direction of travel. Speed: match the subject's motion. Framing: keep the subject in side profile or three-quarter profile at a stable distance. End: continue the parallel movement with clear horizontal motion."
+    "video": "/api/media/videos/1792817159009-camera_tracking_shot_movement_20261024114543.mp4",
+    "poster": "/api/media/images/1792817159294-poster-1792817155862-camera_tracking_shot_movement_20261024114543.jpg",
+    "prompt": "side tracking shot. Movement: move parallel beside the subject along their direction of travel. Speed: match the subject's motion. Framing: keep the subject in side profile or three-quarter profile at a stable distance. End: continue the parallel movement with clear horizontal motion.",
+    "module": "camera",
+    "base_image": ""
   },
   {
     "id": 31,
