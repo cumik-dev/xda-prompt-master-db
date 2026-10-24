@@ -323,9 +323,11 @@
     "shotId": "Shot 18",
     "category": "Dolly/Track",
     "title": "Reverse tracking / walk-and-talk",
-    "video": "/videos/18-reverse-tracking-walk-and-talk-hq.mp4",
-    "poster": "/posters/18-reverse-tracking-walk-and-talk-hq.jpg",
-    "prompt": "reverse tracking shot. Movement: move backward in front of the walking subject. Speed: match the subject's forward pace. Framing: keep front-facing face and body framing stable as the background moves behind them. End: hold a clear front-facing moving composition."
+    "video": "/api/media/videos/1792816754076-reverse_tracking_shot_of_walking_20261024113900.mp4",
+    "poster": "/api/media/images/1792816754141-poster-1792816750713-reverse_tracking_shot_of_walking_20261024113900.jpg",
+    "prompt": "reverse tracking shot. Movement: move backward in front of the walking subject. Speed: match the subject's forward pace. Framing: keep front-facing face and body framing stable as the background moves behind them. End: hold a clear front-facing moving composition.",
+    "module": "camera",
+    "base_image": ""
   },
   {
     "id": 30,
