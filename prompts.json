@@ -169,9 +169,11 @@
     "shotId": "Shot 09",
     "category": "Dolly/Track",
     "title": "Dolly out",
-    "video": "/videos/09-dolly-out-hq.mp4",
-    "poster": "/posters/09-dolly-out-hq.jpg",
-    "prompt": "dolly out. Movement: move the camera physically backward in a straight line away from the main subject. Speed: smooth controlled retreat. Framing: keep lens direction and camera height consistent while more environment enters frame. End: finish in a wider composition."
+    "video": "/api/media/videos/1792809065615-camera_dolly_out_movement_20261024093047.mp4",
+    "poster": "/api/media/images/1792809065890-poster-1792809062517-camera_dolly_out_movement_20261024093047.jpg",
+    "prompt": "dolly out. Movement: move the camera physically backward in a straight line away from the main subject. Speed: smooth controlled retreat. Framing: keep lens direction and camera height consistent while more environment enters frame. End: finish in a wider composition.",
+    "module": "camera",
+    "base_image": ""
   },
   {
     "id": 16,
