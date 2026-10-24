@@ -400,9 +400,11 @@
     "shotId": "Shot 25",
     "category": "Drone/Crane",
     "title": "Crane up",
-    "video": "/videos/25-crane-up-hq.mp4",
-    "poster": "/posters/25-crane-up-hq.jpg",
-    "prompt": "crane up. Movement: travel smoothly upward through open space. Speed: slow controlled vertical lift. Framing: keep the subject or location readable as the camera rises. End: finish with the higher scale clearly visible."
+    "video": "/api/media/videos/1792824020273-camera_crane_up_movement_20261024134006.mp4",
+    "poster": "/api/media/images/1792824020458-poster-1792824016996-camera_crane_up_movement_20261024134006.jpg",
+    "prompt": "crane up. Movement: travel smoothly upward through open space. Speed: slow controlled vertical lift. Framing: keep the subject or location readable as the camera rises. End: finish with the higher scale clearly visible.",
+    "module": "camera",
+    "base_image": ""
   },
   {
     "id": 37,
