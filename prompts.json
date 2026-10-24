@@ -136,9 +136,11 @@
     "shotId": "Shot 07A",
     "category": "Zoom/Lens",
     "title": "Crash zoom in",
-    "video": "/videos/07a-crash-zoom-in-v2-hq.mp4",
-    "poster": "/posters/07a-crash-zoom-in-v2-hq.jpg",
-    "prompt": "crash zoom in. Movement: snap the lens rapidly toward the main visual target. Speed: very fast and punchy. Framing: keep the target readable through the sudden scale change. End: land on a bold tighter composition."
+    "video": "/api/media/videos/1792808096842-crash_zoom_on_character_subject_20261024091441.mp4",
+    "poster": "/api/media/images/1792808096905-poster-1792808093536-crash_zoom_on_character_subject_20261024091441.jpg",
+    "prompt": "crash zoom in. Movement: snap the lens rapidly toward the main visual target. Speed: very fast and punchy. Framing: keep the target readable through the sudden scale change. End: land on a bold tighter composition.",
+    "module": "camera",
+    "base_image": ""
   },
   {
     "id": 13,
