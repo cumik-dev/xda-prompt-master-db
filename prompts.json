@@ -453,9 +453,11 @@
     "shotId": "Shot S1",
     "category": "Specials",
     "title": "First-person view",
-    "video": "/videos/s1-first-person-view-hq.mp4",
-    "poster": "/posters/s1-first-person-view-hq.jpg",
-    "prompt": "first-person view. Movement: move forward at human eye height from the character's perspective. Speed: natural walking or reaching pace. Framing: use visible hands, arms or body edges as the viewer's physical reference. End: arrive at the next point of action from the same point of view."
+    "video": "/api/media/videos/1792825006222-first-person_walking_perspective-_20261024135615.mp4",
+    "poster": "/api/media/images/1792825006531-poster-1792825003059-first-person_walking_perspective-_20261024135615.jpg",
+    "prompt": "first-person view. Movement: move forward at human eye height from the character's perspective. Speed: natural walking or reaching pace. Framing: use visible hands, arms or body edges as the viewer's physical reference. End: arrive at the next point of action from the same point of view.",
+    "module": "camera",
+    "base_image": ""
   },
   {
     "id": 42,
