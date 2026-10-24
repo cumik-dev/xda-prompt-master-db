@@ -290,9 +290,11 @@
     "shotId": "Shot 15B",
     "category": "Physical Moves",
     "title": "Orbit counterclockwise",
-    "video": "/videos/15b-orbit-counterclockwise-hq.mp4",
-    "poster": "/posters/15b-orbit-counterclockwise-hq.jpg",
-    "prompt": "counterclockwise orbit. Movement: circle counterclockwise around the main subject at a consistent radius. Speed: smooth controlled orbit. Framing: keep the subject centered while the background rotates around them. End: complete the intended arc or full circle with stable framing."
+    "video": "/api/media/videos/1792815880591-counterclockwise_orbit_around_su-_20261024112416.mp4",
+    "poster": "/api/media/images/1792815880904-poster-1792815877483-counterclockwise_orbit_around_su-_20261024112416.jpg",
+    "prompt": "counterclockwise orbit. Movement: circle counterclockwise around the main subject at a consistent radius. Speed: smooth controlled orbit. Framing: keep the subject centered while the background rotates around them. End: complete the intended arc or full circle with stable framing.",
+    "module": "camera",
+    "base_image": ""
   },
   {
     "id": 27,
