@@ -125,9 +125,11 @@
     "shotId": "Shot 06B",
     "category": "Zoom/Lens",
     "title": "Fast zoom out",
-    "video": "/videos/06b-fast-zoom-out-v2-hq.mp4",
-    "poster": "/posters/06b-fast-zoom-out-v2-hq.jpg",
-    "prompt": "fast zoom out. Movement: quickly decrease lens focal length away from the main visual target. Speed: quick decisive zoom. Framing: keep the target readable as the surrounding space appears. End: finish on a stable wider composition."
+    "video": "/api/media/videos/1792807594149-fast_zoom_out_camera_movement_20261024090320.mp4",
+    "poster": "/api/media/images/1792807594337-poster-1792807590832-fast_zoom_out_camera_movement_20261024090320.jpg",
+    "prompt": "fast zoom out. Movement: quickly decrease lens focal length away from the main visual target. Speed: quick decisive zoom. Framing: keep the target readable as the surrounding space appears. End: finish on a stable wider composition.",
+    "module": "camera",
+    "base_image": ""
   },
   {
     "id": 12,
