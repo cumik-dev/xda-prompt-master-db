@@ -235,9 +235,11 @@
     "shotId": "Shot 12B",
     "category": "Physical Moves",
     "title": "Slider left",
-    "video": "/videos/12b-slider-left-hq.mp4",
-    "poster": "/posters/12b-slider-left-hq.jpg",
-    "prompt": "slider left. Movement: slide the camera a small distance to the left. Speed: slow controlled constant motion. Framing: keep foreground, subject and background layers readable as parallax shifts. End: finish on a refined composition with the new left-side angle visible."
+    "video": "/api/media/videos/1792813152397-camera_moving_left_horizontally_20261024103836.mp4",
+    "poster": "/api/media/images/1792813152447-poster-1792813149017-camera_moving_left_horizontally_20261024103836.jpg",
+    "prompt": "slider left. Movement: slide the camera a small distance to the left. Speed: slow controlled constant motion. Framing: keep foreground, subject and background layers readable as parallax shifts. End: finish on a refined composition with the new left-side angle visible.",
+    "module": "camera",
+    "base_image": ""
   },
   {
     "id": 22,
