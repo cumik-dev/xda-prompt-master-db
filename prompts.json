@@ -202,9 +202,11 @@
     "shotId": "Shot 11A",
     "category": "Physical Moves",
     "title": "Pedestal up",
-    "video": "/videos/11a-pedestal-up-hq.mp4",
-    "poster": "/posters/11a-pedestal-up-hq.jpg",
-    "prompt": "pedestal up. Movement: move the entire camera vertically upward in a straight line. Speed: smooth constant lift. Framing: keep the lens level and pointed in the same direction during the vertical move. End: finish with the higher framing clearly readable."
+    "video": "/api/media/videos/1792810639049-pedestal_camera_upward_movement_20261024095702.mp4",
+    "poster": "/api/media/images/1792810639097-poster-1792810635704-pedestal_camera_upward_movement_20261024095702.jpg",
+    "prompt": "pedestal up. Movement: move the entire camera vertically upward in a straight line. Speed: smooth constant lift. Framing: keep the lens level and pointed in the same direction during the vertical move. End: finish with the higher framing clearly readable.",
+    "module": "camera",
+    "base_image": ""
   },
   {
     "id": 19,
