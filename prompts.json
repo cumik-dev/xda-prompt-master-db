@@ -411,9 +411,11 @@
     "shotId": "Shot 25B",
     "category": "Drone/Crane",
     "title": "Crane down",
-    "video": "/videos/25b-crane-down-hq.mp4",
-    "poster": "/posters/25b-crane-down-hq.jpg",
-    "prompt": "crane down. Movement: travel smoothly downward through open space. Speed: slow controlled vertical descent. Framing: keep the subject or location readable as the camera descends. End: finish with the lower subject or destination clearly visible."
+    "video": "/api/media/videos/1792824251897-crane_descending_downward_slowly_20261024134350.mp4",
+    "poster": "/api/media/images/1792824251988-poster-1792824248512-crane_descending_downward_slowly_20261024134350.jpg",
+    "prompt": "crane down. Movement: travel smoothly downward through open space. Speed: slow controlled vertical descent. Framing: keep the subject or location readable as the camera descends. End: finish with the lower subject or destination clearly visible.",
+    "module": "camera",
+    "base_image": ""
   },
   {
     "id": 38,
