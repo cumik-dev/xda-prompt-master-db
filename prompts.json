@@ -257,8 +257,8 @@
     "shotId": "Shot 14",
     "category": "Physical Moves",
     "title": "Arc right",
-    "video": "/api/media/videos/1792813881319-camera_arc_right_movement_instru-_20261024105101.mp4",
-    "poster": "/api/media/images/1792813881629-poster-1792813878218-camera_arc_right_movement_instru-_20261024105101.jpg",
+    "video": "/api/media/videos/1792815685442-kling_20261024_video_arc_left___3123_0.mp4",
+    "poster": "/api/media/images/1792815685534-poster-1792815682106-kling_20261024_video_arc_left___3123_0.jpg",
     "prompt": "arc right. Movement: move on a shallow curved path around the main subject toward the right side. Speed: smooth measured curve. Framing: keep distance, height and subject readability consistent while the angle changes. End: finish from a new right-side angle.",
     "module": "camera",
     "base_image": ""
