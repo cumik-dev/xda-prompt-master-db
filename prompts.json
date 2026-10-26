@@ -730,7 +730,7 @@
     "category": "Lens type & character",
     "title": "Modern Clinical Prime",
     "video": "",
-    "poster": "/optics/modern-clinical-prime.webp",
+    "poster": "/api/media/images/1792997253591-modern-clinical-prime--edge-to-edge-sharpness.png",
     "base_image": "/optics/base_original.webp",
     "prompt": "modern clinical prime, edge-to-edge sharpness"
   },
