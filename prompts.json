@@ -830,7 +830,7 @@
     "title": "2.39:1 Anamorphic Widescreen",
     "video": "",
     "poster": "/api/media/images/1792998258521-2.391-anamorphic-widescreen--cinematic-letterbox.png",
-    "base_image": "/optics/base_original.webp",
+    "base_image": "/api/media/images/1793000159465-00_bahan.png",
     "prompt": "2.39:1 anamorphic widescreen, cinematic letterbox"
   },
   {
