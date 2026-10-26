@@ -609,7 +609,7 @@
     "category": "Camera bodies",
     "title": "Shot On Dslr",
     "video": "",
-    "poster": "/optics/shot-on-dslr.webp",
+    "poster": "/api/media/images/1792999835697-shot-on-dslr--clean-prosumer-video-look.png",
     "base_image": "/optics/base_original.webp",
     "prompt": "shot on DSLR, clean prosumer video look"
   },
