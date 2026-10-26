@@ -873,7 +873,7 @@
     "category": "Shot size",
     "title": "Medium Close-Up",
     "video": "",
-    "poster": "/optics/medium-close-up.webp",
+    "poster": "/api/media/images/1792998596580-medium-close-up--chest-up-framing.png",
     "base_image": "/optics/base_original.webp",
     "prompt": "medium close-up, chest-up framing"
   },
