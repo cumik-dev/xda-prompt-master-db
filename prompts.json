@@ -464,9 +464,11 @@
     "shotId": "Shot S2",
     "category": "Specials",
     "title": "Tilt-shift",
-    "video": "/videos/s2-tilt-shift-hq.mp4",
-    "poster": "/posters/s2-tilt-shift-hq.jpg",
-    "prompt": "tilt-shift miniature view. Movement: hold or glide from a high angled view over the scene. Speed: small precise movement. Framing: keep a narrow band of sharp focus across the key subject area with soft blur above and below. End: finish with the miniature-scale view intact."
+    "video": "/api/media/videos/1792981385179-miniature_view_camera_movement_20261026092249.mp4",
+    "poster": "/api/media/images/1792981385241-poster-1792981379796-miniature_view_camera_movement_20261026092249.jpg",
+    "prompt": "tilt-shift miniature view. Movement: hold or glide from a high angled view over the scene. Speed: small precise movement. Framing: keep a narrow band of sharp focus across the key subject area with soft blur above and below. End: finish with the miniature-scale view intact.",
+    "module": "camera",
+    "base_image": ""
   },
   {
     "id": 43,
