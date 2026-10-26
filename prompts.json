@@ -554,8 +554,8 @@
     "category": "Camera bodies",
     "title": "Shot On 35Mm Film Camera",
     "video": "",
-    "poster": "/optics/shot-on-35mm-film-camera.webp",
-    "base_image": "/optics/base_original.webp",
+    "poster": "/api/media/images/1792986829643-kodak-street-portrait-in-warm-sunlight.png",
+    "base_image": "/api/media/images/1792986826243-00_bahan.png",
     "prompt": "shot on 35mm film camera, photochemical texture"
   },
   {
