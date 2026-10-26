@@ -610,7 +610,7 @@
     "title": "Shot On Dslr",
     "video": "",
     "poster": "/api/media/images/1792999835697-shot-on-dslr--clean-prosumer-video-look.png",
-    "base_image": "/optics/base_original.webp",
+    "base_image": "/api/media/images/1792999850688-00_bahan.png",
     "prompt": "shot on DSLR, clean prosumer video look"
   },
   {
