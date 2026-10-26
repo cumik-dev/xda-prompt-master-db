@@ -907,7 +907,7 @@
     "title": "Two-Shot",
     "video": "",
     "poster": "/api/media/images/1792999138593-two-shot--both-subjects-in-frame.png",
-    "base_image": "/optics/base_original.webp",
+    "base_image": "/api/media/images/1793000337337-00_bahan.png",
     "prompt": "two-shot, both subjects in frame"
   },
   {
