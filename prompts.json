@@ -643,7 +643,7 @@
     "title": "35Mm Lens",
     "video": "",
     "poster": "/api/media/images/1792996373249-35mm-lens--natural-near-human-field-of-view.png",
-    "base_image": "/optics/base_original.webp",
+    "base_image": "/api/media/images/1792999925658-00_bahan.png",
     "prompt": "35mm lens, natural near-human field of view"
   },
   {
