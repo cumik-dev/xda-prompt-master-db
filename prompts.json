@@ -863,7 +863,7 @@
     "title": "Wide Shot",
     "video": "",
     "poster": "/api/media/images/1792998525433-wide-shot--full-body-in-environment.png",
-    "base_image": "/optics/base_original.webp",
+    "base_image": "/api/media/images/1793000261868-00_bahan.png",
     "prompt": "wide shot, full body in environment"
   },
   {
