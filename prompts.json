@@ -497,9 +497,11 @@
     "shotId": "Shot S5",
     "category": "Specials",
     "title": "Time-lapse",
-    "video": "/videos/s5-time-lapse-hq.mp4",
-    "poster": "/posters/s5-time-lapse-hq.jpg",
-    "prompt": "locked-camera time-lapse. Movement: hold one fixed camera position while time moves rapidly forward. Speed: fast time compression with a stable camera. Framing: keep the same composition and horizon as motion passes through the frame. End: finish from the same camera angle with visible passage of time."
+    "video": "/api/media/videos/1792982701645-locked_camera_time_lapse_20261026094447.mp4",
+    "poster": "/api/media/images/1792982701798-poster-1792982696361-locked_camera_time_lapse_20261026094447.jpg",
+    "prompt": "locked-camera time-lapse. Movement: hold one fixed camera position while time moves rapidly forward. Speed: fast time compression with a stable camera. Framing: keep the same composition and horizon as motion passes through the frame. End: finish from the same camera angle with visible passage of time.",
+    "module": "camera",
+    "base_image": ""
   },
   {
     "id": 46,
