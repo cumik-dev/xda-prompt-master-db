@@ -675,7 +675,7 @@
     "category": "Focal length",
     "title": "135Mm Telephoto",
     "video": "",
-    "poster": "/optics/135mm-telephoto.webp",
+    "poster": "/api/media/images/1792996582834-135mm-telephoto--heavy-background-compression.png",
     "base_image": "/optics/base_original.webp",
     "prompt": "135mm telephoto, heavy background compression"
   },
