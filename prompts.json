@@ -829,7 +829,7 @@
     "category": "Format / aspect",
     "title": "2.39:1 Anamorphic Widescreen",
     "video": "",
-    "poster": "/optics/2-39-1-anamorphic-widescreen.webp",
+    "poster": "/api/media/images/1792998258521-2.391-anamorphic-widescreen--cinematic-letterbox.png",
     "base_image": "/optics/base_original.webp",
     "prompt": "2.39:1 anamorphic widescreen, cinematic letterbox"
   },
