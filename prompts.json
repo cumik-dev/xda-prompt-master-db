@@ -653,7 +653,7 @@
     "category": "Focal length",
     "title": "50Mm Lens",
     "video": "",
-    "poster": "/optics/50mm-lens.webp",
+    "poster": "/api/media/images/1792996407831-50mm-lens--neutral-standard-perspective.png",
     "base_image": "/optics/base_original.webp",
     "prompt": "50mm lens, neutral standard perspective"
   },
