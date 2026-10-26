@@ -532,8 +532,8 @@
     "category": "Camera bodies",
     "title": "Shot On Red Komodo",
     "video": "",
-    "poster": "/optics/shot-on-red-komodo.webp",
-    "base_image": "/optics/base_original.webp",
+    "poster": "/api/media/images/1792985635736-smiling-xavier-marks-street-portrait.png",
+    "base_image": "/api/media/images/1792985639492-smiling-portrait-outside-modern-shopfronts.png",
     "prompt": "shot on RED Komodo, crisp digital clarity"
   },
   {
