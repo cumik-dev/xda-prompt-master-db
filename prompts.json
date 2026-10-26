@@ -654,7 +654,7 @@
     "title": "50Mm Lens",
     "video": "",
     "poster": "/api/media/images/1792996407831-50mm-lens--neutral-standard-perspective.png",
-    "base_image": "/optics/base_original.webp",
+    "base_image": "/api/media/images/1792999938007-00_bahan.png",
     "prompt": "50mm lens, neutral standard perspective"
   },
   {
