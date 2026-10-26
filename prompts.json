@@ -753,7 +753,7 @@
     "title": "Tilt-Shift",
     "video": "",
     "poster": "/api/media/images/1792997396761-tilt-shift--selective-plane-of-focus--miniature-effect.png",
-    "base_image": "/optics/base_original.webp",
+    "base_image": "/api/media/images/1793000085089-00_bahan.png",
     "prompt": "tilt-shift, selective plane of focus, miniature effect"
   },
   {
