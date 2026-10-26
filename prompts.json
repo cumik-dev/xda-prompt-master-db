@@ -785,7 +785,7 @@
     "category": "Aperture / depth of field",
     "title": "Shallow Depth Of Field",
     "video": "",
-    "poster": "/optics/shallow-depth-of-field.webp",
+    "poster": "/api/media/images/1792997786005-shallow-depth-of-field--creamy-background-bokeh.png",
     "base_image": "/optics/base_original.webp",
     "prompt": "shallow depth of field, creamy background bokeh"
   },
