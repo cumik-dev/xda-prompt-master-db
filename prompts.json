@@ -775,7 +775,7 @@
     "title": "Soft-Focus Diffusion Filter",
     "video": "",
     "poster": "/api/media/images/1792997651506-dreamy-golden-hour-street-portrait.png",
-    "base_image": "/optics/base_original.webp",
+    "base_image": "/api/media/images/1793000098144-00_bahan.png",
     "prompt": "soft-focus diffusion filter, dreamy halated highlights"
   },
   {
