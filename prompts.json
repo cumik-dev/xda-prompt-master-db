@@ -807,7 +807,7 @@
     "category": "Aperture / depth of field",
     "title": "Razor-Thin Focus",
     "video": "",
-    "poster": "/optics/razor-thin-focus.webp",
+    "poster": "/api/media/images/1792998079045-razor-thin-focus--only-the-eyes-in-focus.png",
     "base_image": "/optics/base_original.webp",
     "prompt": "razor-thin focus, only the eyes in focus"
   },
