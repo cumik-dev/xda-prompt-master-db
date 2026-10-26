@@ -731,7 +731,7 @@
     "title": "Modern Clinical Prime",
     "video": "",
     "poster": "/api/media/images/1792997253591-modern-clinical-prime--edge-to-edge-sharpness.png",
-    "base_image": "/optics/base_original.webp",
+    "base_image": "/api/media/images/1793000051130-00_bahan.png",
     "prompt": "modern clinical prime, edge-to-edge sharpness"
   },
   {
