@@ -818,7 +818,7 @@
     "category": "Aperture / depth of field",
     "title": "Moderate Dof",
     "video": "",
-    "poster": "/optics/moderate-dof.webp",
+    "poster": "/api/media/images/1792998185698-moderate-dof--subject-sharp--background-gently-soft.png",
     "base_image": "/optics/base_original.webp",
     "prompt": "moderate DOF, subject sharp, background gently soft"
   },
