@@ -796,7 +796,7 @@
     "category": "Aperture / depth of field",
     "title": "Deep Focus",
     "video": "",
-    "poster": "/optics/deep-focus.webp",
+    "poster": "/api/media/images/1792997978321-deep-focus--everything-sharp-foreground-to-background.png",
     "base_image": "/optics/base_original.webp",
     "prompt": "deep focus, everything sharp foreground to background"
   },
