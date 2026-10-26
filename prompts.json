@@ -939,7 +939,7 @@
     "category": "Angle / height",
     "title": "Dutch Tilt",
     "video": "",
-    "poster": "/optics/dutch-tilt.webp",
+    "poster": "/api/media/images/1792999552190-cinematic-tilted-street-portrait.png",
     "base_image": "/optics/base_original.webp",
     "prompt": "dutch tilt, canted unsettling horizon"
   },
