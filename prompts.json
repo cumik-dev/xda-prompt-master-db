@@ -895,7 +895,7 @@
     "category": "Shot size",
     "title": "Extreme Close-Up",
     "video": "",
-    "poster": "/optics/extreme-close-up.webp",
+    "poster": "/api/media/images/1792999110918-cinematic-close-up-of-warm-brown-eyes.png",
     "base_image": "/optics/base_original.webp",
     "prompt": "extreme close-up, eyes and detail only"
   },
