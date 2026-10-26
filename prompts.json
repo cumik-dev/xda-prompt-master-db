@@ -752,7 +752,7 @@
     "category": "Lens type & character",
     "title": "Tilt-Shift",
     "video": "",
-    "poster": "/optics/tilt-shift.webp",
+    "poster": "/api/media/images/1792997396761-tilt-shift--selective-plane-of-focus--miniature-effect.png",
     "base_image": "/optics/base_original.webp",
     "prompt": "tilt-shift, selective plane of focus, miniature effect"
   },
