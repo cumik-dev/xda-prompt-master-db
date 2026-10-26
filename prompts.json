@@ -906,7 +906,7 @@
     "category": "Shot size",
     "title": "Two-Shot",
     "video": "",
-    "poster": "/optics/two-shot.webp",
+    "poster": "/api/media/images/1792999138593-two-shot--both-subjects-in-frame.png",
     "base_image": "/optics/base_original.webp",
     "prompt": "two-shot, both subjects in frame"
   },
