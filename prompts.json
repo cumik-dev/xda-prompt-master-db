@@ -885,7 +885,7 @@
     "title": "Close-Up",
     "video": "",
     "poster": "/api/media/images/1792999012368-close-up--face-filling-the-frame.png",
-    "base_image": "/optics/base_original.webp",
+    "base_image": "/api/media/images/1793000282321-00_bahan.png",
     "prompt": "close-up, face filling the frame"
   },
   {
