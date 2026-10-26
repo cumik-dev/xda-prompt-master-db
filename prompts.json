@@ -565,7 +565,7 @@
     "category": "Camera bodies",
     "title": "Shot On 16Mm Film",
     "video": "",
-    "poster": "/optics/shot-on-16mm-film.webp",
+    "poster": "/api/media/images/1792995722086-shot-on-16mm-film--grainy-organic-motion.png",
     "base_image": "/optics/base_original.webp",
     "prompt": "shot on 16mm film, grainy organic motion"
   },
