@@ -676,7 +676,7 @@
     "title": "135Mm Telephoto",
     "video": "",
     "poster": "/api/media/images/1792996582834-135mm-telephoto--heavy-background-compression.png",
-    "base_image": "/optics/base_original.webp",
+    "base_image": "/api/media/images/1792999965796-00_bahan.png",
     "prompt": "135mm telephoto, heavy background compression"
   },
   {
