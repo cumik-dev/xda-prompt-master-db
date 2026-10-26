@@ -851,7 +851,7 @@
     "category": "Format / aspect",
     "title": "9:16 Vertical",
     "video": "",
-    "poster": "/optics/9-16-vertical.webp",
+    "poster": "/api/media/images/1792998412760-916-vertical--social-native-framing.png",
     "base_image": "/optics/base_original.webp",
     "prompt": "9:16 vertical, social-native framing"
   },
