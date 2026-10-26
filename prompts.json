@@ -686,7 +686,7 @@
     "category": "Focal length",
     "title": "14Mm Ultra-Wide",
     "video": "",
-    "poster": "/optics/14mm-ultra-wide.webp",
+    "poster": "/api/media/images/1792996787859-14mm-ultra-wide--dramatic-distortion-at-edges.png",
     "base_image": "/optics/base_original.webp",
     "prompt": "14mm ultra-wide, dramatic distortion at edges"
   },
