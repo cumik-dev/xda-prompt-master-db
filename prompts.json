@@ -486,9 +486,11 @@
     "shotId": "Shot S4",
     "category": "Specials",
     "title": "Earth zoom out",
-    "video": "/videos/s4-earth-zoom-out-hq.mp4",
-    "poster": "/posters/s4-earth-zoom-out-hq.jpg",
-    "prompt": "earth zoom out. Movement: pull upward from the starting point through street, city, landscape and planet scale. Speed: rapid expanding zoom out. Framing: keep the original location centered as scale grows. End: finish on a planet-scale view with the starting point still implied at center."
+    "video": "/api/media/videos/1792982014920-earth_zoom_out_from_street_20261026093258.mp4",
+    "poster": "/api/media/images/1792982014964-poster-1792982009529-earth_zoom_out_from_street_20261026093258.jpg",
+    "prompt": "earth zoom out. Movement: pull upward from the starting point through street, city, landscape and planet scale. Speed: rapid expanding zoom out. Framing: keep the original location centered as scale grows. End: finish on a planet-scale view with the starting point still implied at center.",
+    "module": "camera",
+    "base_image": ""
   },
   {
     "id": 45,
