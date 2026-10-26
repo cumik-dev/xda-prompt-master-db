@@ -774,7 +774,7 @@
     "category": "Lens type & character",
     "title": "Soft-Focus Diffusion Filter",
     "video": "",
-    "poster": "/optics/soft-focus-diffusion-filter.webp",
+    "poster": "/api/media/images/1792997651506-dreamy-golden-hour-street-portrait.png",
     "base_image": "/optics/base_original.webp",
     "prompt": "soft-focus diffusion filter, dreamy halated highlights"
   },
