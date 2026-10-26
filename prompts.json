@@ -764,7 +764,7 @@
     "title": "Fisheye",
     "video": "",
     "poster": "/api/media/images/1792997507762-fisheye-portrait-on-a-sunny-city-street.png",
-    "base_image": "/optics/base_original.webp",
+    "base_image": "/api/media/images/1793000091415-00_bahan.png",
     "prompt": "fisheye, extreme curved distortion"
   },
   {
