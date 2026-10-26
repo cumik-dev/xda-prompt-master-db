@@ -862,7 +862,7 @@
     "category": "Format / aspect",
     "title": "Wide Shot",
     "video": "",
-    "poster": "/optics/wide-shot.webp",
+    "poster": "/api/media/images/1792998525433-wide-shot--full-body-in-environment.png",
     "base_image": "/optics/base_original.webp",
     "prompt": "wide shot, full body in environment"
   },
