@@ -797,7 +797,7 @@
     "title": "Deep Focus",
     "video": "",
     "poster": "/api/media/images/1792997978321-deep-focus--everything-sharp-foreground-to-background.png",
-    "base_image": "/optics/base_original.webp",
+    "base_image": "/api/media/images/1793000124323-00_bahan.png",
     "prompt": "deep focus, everything sharp foreground to background"
   },
   {
