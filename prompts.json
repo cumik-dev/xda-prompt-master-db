@@ -884,7 +884,7 @@
     "category": "Shot size",
     "title": "Close-Up",
     "video": "",
-    "poster": "/optics/close-up.webp",
+    "poster": "/api/media/images/1792999012368-close-up--face-filling-the-frame.png",
     "base_image": "/optics/base_original.webp",
     "prompt": "close-up, face filling the frame"
   },
