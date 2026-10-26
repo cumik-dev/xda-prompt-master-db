@@ -840,7 +840,7 @@
     "category": "Format / aspect",
     "title": "4:3 Academy Ratio",
     "video": "",
-    "poster": "/optics/4-3-academy-ratio.webp",
+    "poster": "/api/media/images/1792998349611-43-academy-ratio--boxy-vintage-framing.png",
     "base_image": "/optics/base_original.webp",
     "prompt": "4:3 academy ratio, boxy vintage framing"
   },
