@@ -475,9 +475,11 @@
     "shotId": "Shot S3",
     "category": "Specials",
     "title": "Infinite zoom",
-    "video": "/videos/s3-infinite-zoom-hq.mp4",
-    "poster": "/posters/s3-infinite-zoom-hq.jpg",
-    "prompt": "infinite zoom. Movement: zoom continuously inward toward the exact center target. Speed: smooth accelerating zoom. Framing: keep the circular target centered as it expands. End: finish when the next visual world fills the frame."
+    "video": "/api/media/videos/1792981794766-infinite_zoom_toward_center_target_20261026092930.mp4",
+    "poster": "/api/media/images/1792981794788-poster-1792981789347-infinite_zoom_toward_center_target_20261026092930.jpg",
+    "prompt": "infinite zoom. Movement: zoom continuously inward toward the exact center target. Speed: smooth accelerating zoom. Framing: keep the circular target centered as it expands. End: finish when the next visual world fills the frame.",
+    "module": "camera",
+    "base_image": ""
   },
   {
     "id": 44,
