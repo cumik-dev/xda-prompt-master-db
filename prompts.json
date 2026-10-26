@@ -928,7 +928,7 @@
     "category": "Angle / height",
     "title": "High Angle Looking Down",
     "video": "",
-    "poster": "/optics/high-angle-looking-down.webp",
+    "poster": "/api/media/images/1792999388988-high-angle-looking-down--diminished-subject.png",
     "base_image": "/optics/base_original.webp",
     "prompt": "high angle looking down, diminished subject"
   },
