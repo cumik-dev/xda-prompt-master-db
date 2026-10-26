@@ -544,7 +544,7 @@
     "title": "Shot On Sony Venice",
     "video": "",
     "poster": "/optics/shot-on-sony-venice.webp",
-    "base_image": "/optics/base_original.webp",
+    "base_image": "/api/media/images/1792986879336-00_bahan.png",
     "prompt": "shot on Sony Venice, smooth cinematic color"
   },
   {
