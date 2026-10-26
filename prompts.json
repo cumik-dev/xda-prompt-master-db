@@ -620,7 +620,7 @@
     "category": "Camera bodies",
     "title": "Shot On Imax Large-Format",
     "video": "",
-    "poster": "/optics/shot-on-imax-large-format.webp",
+    "poster": "/api/media/images/1792996077933-shot-on-imax-large-format--sweeping-high-resolution-detail.png",
     "base_image": "/optics/base_original.webp",
     "prompt": "shot on IMAX large-format, sweeping high-resolution detail"
   },
