@@ -508,9 +508,11 @@
     "shotId": "Shot S6",
     "category": "Specials",
     "title": "Pass-through objects",
-    "video": "/videos/s6-pass-through-objects-hq.mp4",
-    "poster": "/posters/s6-pass-through-objects-hq.jpg",
-    "prompt": "pass-through movement. Movement: move forward toward a visible object, surface or barrier and continue into the space beyond. Speed: smooth centered glide. Framing: keep the opening or surface centered as the transition point. End: arrive inside the revealed space beyond."
+    "video": "/api/media/videos/1792983077697-camera_moving_through_opening_space_20261026095106.mp4",
+    "poster": "/api/media/images/1792983077749-poster-1792983072310-camera_moving_through_opening_space_20261026095106.jpg",
+    "prompt": "pass-through movement. Movement: move forward toward a visible object, surface or barrier and continue into the space beyond. Speed: smooth centered glide. Framing: keep the opening or surface centered as the transition point. End: arrive inside the revealed space beyond.",
+    "module": "camera",
+    "base_image": ""
   },
   {
     "id": 2001,
