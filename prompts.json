@@ -819,7 +819,7 @@
     "title": "Moderate Dof",
     "video": "",
     "poster": "/api/media/images/1792998185698-moderate-dof--subject-sharp--background-gently-soft.png",
-    "base_image": "/optics/base_original.webp",
+    "base_image": "/api/media/images/1793000147143-00_bahan.png",
     "prompt": "moderate DOF, subject sharp, background gently soft"
   },
   {
